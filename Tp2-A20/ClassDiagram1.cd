@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tp2_A20.Commentaire" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAABAQAABAEAAAIkAAAAAAAEAAgAJAQAAAAAAg=</HashCode>
+      <FileName>Commentaire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tp2_A20.Discussion" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAIAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discussion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tp2_A20.Utilisateur" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAg=</HashCode>
+      <FileName>Utilisateur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tp2_A20.Utilitaires" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAIAAAg=</HashCode>
+      <FileName>Utilitaires.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tp2_A20.frmAccueil" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkkBQIAQASBAAAKMAQSABAISAgKAaAAaEAhmBFBAAAA=</HashCode>
+      <FileName>frmAccueil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tp2_A20.frmAjoutDiscussion" Collapsed="true">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACBBAAACAAgAAAAQCDgAACAAAAABAACAAAAMAABAA=</HashCode>
+      <FileName>frmAjoutDiscussion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
